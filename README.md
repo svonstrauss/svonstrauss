@@ -9,12 +9,12 @@ I'm S. von Straussburg, and welcome to my GitHub profile!
 - 🔒 CyberSecurity
 
 🌱 **In My Free Time:**
-- 📚 Diving into the lore of the "Lord of the Rings" series
+- 📚 Diving into the lore of the "Forgotten Realms"!
 - 🎲 Playing Dungeons and Dragons and immersing myself in Baldur's Gate 3
 - ⚔️ I enjoy the Total War Series.
 
 🍲 **Culinary Adventures:**
-- Exploring the rich flavors of traditional Chinese cuisine
+- Exploring the rich flavors of international cuisine
 - A big fan of a good hotpot!
 
 🏞️ **Hobbies Outside the Digital World:**
