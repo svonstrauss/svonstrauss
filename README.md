@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**svonstrauss/svonstrauss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm S. von Straussburg, and welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+🔭 **What I'm passionate about:**
+- 🤖 Machine Learning & Deep Learning
+- 📊 Computational Finance
+- 🧠 General AI applications
+- 🔒 CyberSecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **In My Free Time:**
+- 📚 Diving into the lore of the "Lord of the Rings" series
+- 🎲 Playing Dungeons and Dragons and immersing myself in Baldur's Gate 3
+- ⚔️ I enjoy the Total War Series.
+
+🍲 **Culinary Adventures:**
+- Exploring the rich flavors of traditional Chinese cuisine
+- A big fan of a good hotpot!
+
+🏞️ **Hobbies Outside the Digital World:**
+- 🥾 Hiking through nature's wonders
+- 🌍 Traveling and experiencing new cultures
+
+👯 **Let's Collaborate:**
+- I’m always open to collaborating on projects in AI, machine learning, or anything tech!
+- If you're interested in discussing or working on something together, feel free to reach out.
+
+📫 **How to Reach Me:** (Need to Update)
+
+⚡ **Fun Fact:**
+- I can talk for hours about the intricacies of Middle-earth/Ancient Battles/Three Kingdoms period!
+
+---
+
+*This README is a little window into my world. Thanks for visiting!*
